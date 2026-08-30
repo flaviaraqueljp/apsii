@@ -1,0 +1,3 @@
+interface InfoGerais {
+    void exibeInformacoes();
+}
