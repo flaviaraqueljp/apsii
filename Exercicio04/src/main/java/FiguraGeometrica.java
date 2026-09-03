@@ -5,4 +5,4 @@ public interface FiguraGeometrica {
 
     public String getNomeFigura(); 
 
-} 
+}

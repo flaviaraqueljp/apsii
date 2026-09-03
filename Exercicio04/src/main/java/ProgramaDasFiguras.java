@@ -1,5 +1,5 @@
 
-public class ProgramaDasFiguras{ 
+public class ProgramaDasFiguras { 
 
     public static void main(String[] args) { 
 
@@ -37,4 +37,4 @@ public class ProgramaDasFiguras{
 
     } 
 
-}
+} 
